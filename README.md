@@ -2,7 +2,7 @@
 - 📩 apelsin0-0@ya.ru
 ______________________________
 ✨
-- HTML/CSS/Bootstrap
+- HTML/CSS/SCSSS/Bootstrap
 - JavaScript/TypeScript
 - React
 
