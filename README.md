@@ -4,7 +4,7 @@ ______________________________
 ✨
 - HTML/CSS/SCSS/Bootstrap
 - JavaScript/TypeScript
-- React
+- React/Redux
 
 ⚙
 - MySQL
